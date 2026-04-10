@@ -77,6 +77,8 @@ AI is reshaping education — but resources are scattered, expensive, or require
 
 ---
 
+
+- **[LearnAI](https://www.uselearnai.com)** — Conversational AI learning platform; teaches Python, data science, AWS, DeFi, math, and more through adaptive dialogue sessions. Free tier available. ([Why AI tutoring works](https://www.uselearnai.com/blog/why-ai-tutoring-works))
 ## 👩‍🏫 Tools for K-12 Teachers
 
 > AI that saves teachers time so they can focus on students, not paperwork.
