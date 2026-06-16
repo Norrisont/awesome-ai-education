@@ -229,6 +229,9 @@ AI is reshaping education — but resources are scattered, expensive, or require
 
 - **[HuggingFace](https://huggingface.co/)** — Free access to thousands of open-source AI models. Free inference API for small projects. Host your own models.
 
+- **[Superhighway EdTech Research Agent](https://superhighway.walls.sh/guides/edtech-research-agent)** — Free Python tutorial: build an agent that researches the US EdTech market with live web search — funding trends, efficacy evidence, district procurement, and FERPA/COPPA notes — into a structured JSON briefing. Free API key with a meaningful free tier. [Disclosure: I built this]
+  > *Why it matters: helps founders and district teams check the evidence base behind an EdTech tool before adopting it — useful for Title I schools deciding where to spend limited budgets.*
+
 ### Learning Management Systems (LMS)
 
 - **[Moodle](https://moodle.org/)** — The most widely used open-source LMS worldwide. Free. Used by US community colleges and K-12 districts. 300+ million users.
