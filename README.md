@@ -75,6 +75,9 @@ AI is reshaping education — but resources are scattered, expensive, or require
 
 - **[Synthesis](https://www.synthesis.com/)** — AI-powered problem-solving for K-12 students. Originally built for SpaceX employees' kids. Significant free access available.
 
+- **[StudyArena](https://studyarena.com)** - Free tool for students to compare three anonymous AI answers, vote for the most useful response, and reveal the models. [Disclosure: I built this]
+  > *Why it matters: Students can compare different answers before deciding what helps with their work.*
+
 ---
 
 ## 👩‍🏫 Tools for K-12 Teachers
