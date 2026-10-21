@@ -95,6 +95,9 @@ AI is reshaping education — but resources are scattered, expensive, or require
 
 - **[Google Gemini for Education](https://edu.google.com/ai/gemini-for-education/)** — Free for all Google Workspace for Education users. Integrated into Docs, Slides, Forms, and Google Classroom. Announced at ISTE 2025.
 
+- **[HumanPen](https://humanpen.net/)** — Freemium AI writing humanizer that rewrites AI drafts into natural, human-sounding prose for educators and writers. [Disclosure: I built this]
+  > *Helps teachers and students practice authentic voice when revising AI-assisted drafts.*
+
 ### Classroom Communication
 
 - **[ClassDojo](https://www.classdojo.com/)** — Free. The most widely used classroom communication app in the US. AI-generated weekly progress summaries for parents. COPPA-compliant.
