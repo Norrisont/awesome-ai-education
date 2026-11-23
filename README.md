@@ -58,6 +58,9 @@ AI is reshaping education — but resources are scattered, expensive, or require
 
 ## 🤖 AI Tutors & Learning Assistants
 
+- [Whiteboard AI Tutor](https://github.com/molly554/whiteboard-ai-tutor) - Open-source animated whiteboard lessons and model-comparison benchmarks; generating new lessons requires model API keys.
+  > *Why it matters: Educators and learners can inspect and replay visual explanations; this is not evidence of classroom effectiveness.*
+
 > AI that helps students understand concepts, get unstuck, and learn at their own pace — available 24/7.
 
 - **[Khan Academy Khanmigo](https://www.khanacademy.org/khan-labs)** — Free AI tutor built on GPT-4. Explains concepts step-by-step. Asks Socratic questions instead of just giving answers. Available to all US students for free.
